@@ -54,7 +54,7 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "ShopWise",
-    href: "https://shopwise-dun.vercel.app/",
+    href: "https://shopwise-mocha.vercel.app/",
     description:
       "Keep updated on price changes for your favourite amazon products.",
     tags: ["React", "TypeScript", "Next.js", "MongoDB", "Tailwind", "Cheerio", "BrightData", "CronJob"],
@@ -62,7 +62,7 @@ export const projectsData = [
   },
   {
     title: "PromptAi",
-    href:"https://prompt-ai-phi.vercel.app/",
+    href:"https://project-prompt-ai-two.vercel.app/",
     description:
       "Web app to share creative prompt you used with chatGPT",
     tags: ["React",  "Next.js", "Tailwind", "MongoDB", "Next-Auth"],
